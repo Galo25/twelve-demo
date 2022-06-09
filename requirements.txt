@@ -46,7 +46,7 @@ crashtest==0.3.1
 cryptography==2.8
 cycler==0.10.0
 cymem==2.0.3
-Cython==0.29.14
+#Cython==0.29.14
 dataclasses==0.7
 decorator==4.4.1
 defusedxml==0.6.0
