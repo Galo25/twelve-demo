@@ -1,10 +1,24 @@
+Jinja2>=2.9.5
+MarkupSafe==0.23
+Werkzeug>=0.14
+click==6.7
+itsdangerous==0.24
+requests==2.20.0
+plaid-python
+python-dotenv #==0.14.0F
 Django==3.0.7
-Jinja2==2.11.2
 plaid==0.1.7
 plaid_python_legacy==1.5.1
 gunicorn==20.0.4
 psycopg2==2.9.3
-MarkupSafe==0.23
 urllib3
-collections.abc
+#Django==3.0.7
+#Jinja2==2.11.2
+#plaid==0.1.7
+#plaid_python_legacy==1.5.1
+#gunicorn==20.0.4
+#psycopg2==2.9.3
+#MarkupSafe==0.23
+#urllib3
+#collections.abc
 #==1.26.9
