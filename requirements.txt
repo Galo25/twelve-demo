@@ -138,7 +138,7 @@ langdetect==1.0.8
 lazy-object-proxy==1.4.3
 lightgbm==3.0.0
 lime==0.2.0.1
-llvmlite==0.36.0
+#llvmlite==0.36.0
 lockfile==0.12.2
 loguru==0.6.0
 LunarCalendar==0.0.9
