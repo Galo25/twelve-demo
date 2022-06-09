@@ -59,7 +59,7 @@ dnspython==2.2.1
 docutils==0.15.2
 dominate==2.6.0
 dtreeviz==1.0
-email-validator==1.1.3
+#email-validator==1.1.3
 en-core-web-sm==2.2.5
 entrypoints==0.3
 enum-compat==0.0.3
