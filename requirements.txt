@@ -243,8 +243,6 @@ pytest-qt==3.3.0
 python-dateutil==2.8.1
 python-dotenv==0.17.1
 python-jsonrpc-server==0.3.2
-# Editable install with no version control (python-language-server==0+unknown)
--e c:\users\galin\downloads\spyder-master\external-deps\python-language-server
 python-slugify==4.0.1
 pytz==2019.3
 PyWavelets==1.1.1
