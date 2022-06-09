@@ -6,4 +6,5 @@ gunicorn==20.0.4
 psycopg2==2.9.3
 MarkupSafe==0.23
 urllib3
+collections.abc
 #==1.26.9
