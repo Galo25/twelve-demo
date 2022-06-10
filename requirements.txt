@@ -8,7 +8,7 @@ requests
 python-dotenv #==0.14.0F
 Django==3.0.7
 
-plaid==0.1.7
+#plaid==0.1.7
 plaid-lib==100.100.100
 plaid-python==7.5.0
 plaid-python-adapter==0.2
