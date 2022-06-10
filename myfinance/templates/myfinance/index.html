@@ -14,7 +14,7 @@
 
   {% if logged_in %}
   <h1>Banking Data with PLAID</h1>
-  <img src="https://download.logo.wine/logo/Plaid_(company)/Plaid_(company)-Logo.wine.png" alt="plaid image">
+  <img src="https://download.logo.wine/logo/Plaid_(company)/Plaid_(company)-Logo.wine.png" width="400" height="300" alt="plaid image">
   <h2>Accounts</h2>
   <form action="{% url 'myfinance:submit-link-account' %}" method="POST">
     {% csrf_token %}
